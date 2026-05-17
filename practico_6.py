@@ -48,3 +48,7 @@ Restricciones
 Class
 #hola esto se sube
 
+def hola(n):
+    print('nidea')
+
+    
