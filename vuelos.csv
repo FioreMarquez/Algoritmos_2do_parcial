@@ -1,0 +1,7 @@
+codigo,aerolinea,pasajeros,destino,demorado
+AR101,Aerolineas Argentinas,180,Madrid,false
+LA220,LATAM,145,Santiago,true
+IB350,Iberia,210,Madrid,false
+GOL45,GOL,120,Rio de Janeiro,false
+AR305,Aerolineas Argentinas,95,Córdoba,true
+UX710,Air Europa,190,Madrid,false

@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "AR101",
+        "aerolinea": "Aerolineas Argentinas",
+        "pasajeros": 180,
+        "destino": "Madrid",
+        "demorado": false
+    },
+    {
+        "codigo": "LA220",
+        "aerolinea": "LATAM",
+        "pasajeros": 145,
+        "destino": "Santiago",
+        "demorado": true
+    },
+    {
+        "codigo": "IB350",
+        "aerolinea": "Iberia",
+        "pasajeros": 210,
+        "destino": "Madrid",
+        "demorado": false
+    },
+    {
+        "codigo": "GOL45",
+        "aerolinea": "GOL",
+        "pasajeros": 120,
+        "destino": "Rio de Janeiro",
+        "demorado": false
+    },
+    {
+        "codigo": "AR305",
+        "aerolinea": "Aerolineas Argentinas",
+        "pasajeros": 95,
+        "destino": "Córdoba",
+        "demorado": true
+    },
+    {
+        "codigo": "UX710",
+        "aerolinea": "Air Europa",
+        "pasajeros": 190,
+        "destino": "Madrid",
+        "demorado": false
+    }
+]
